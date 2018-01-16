@@ -1,0 +1,2 @@
+# Jupyter_python2_3
+Ubuntu系统下Jupyter同时具有Python2和Python3
